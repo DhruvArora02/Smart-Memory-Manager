@@ -1,4 +1,4 @@
-# Smart Memory Manager
+# Smart-Memory-Manager
 
 __Project Overview__ -
 
